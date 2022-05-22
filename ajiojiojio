@@ -1,0 +1,125 @@
+[33mcommit 8c294a6c5cbc84dc3c9ef34a5a2395929012cb12[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jibril <jibrilfgithub@gmail.com>
+Date:   Sat May 21 18:49:14 2022 +0300
+
+    Search in a rotated sorted array
+
+[33mcommit 70910fc2e42df70f2e22ef268845260127e2211a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:15:22 2022 -0400
+
+    Create first-bad-version.py
+
+[33mcommit 60432757b26deaacfab010d7ada57cc7f520837b[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:13:38 2022 -0400
+
+    Create find-minimum-in-rotated-sorted-array.py
+
+[33mcommit 7dee3d66d26b4c363c2b64b2538acfa165bb3845[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:11:35 2022 -0400
+
+    Create find-first-and-last-position-of-element-in-sorted-array.py
+
+[33mcommit c8717f2af40be68646660fd2802e979724f15568[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:10:04 2022 -0400
+
+    Create find-peak-element.py
+
+[33mcommit b6843bed9d03b75abb4253c8686dc3f68d0f1802[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:08:06 2022 -0400
+
+    Create valid-parentheses.py
+
+[33mcommit e0e904eea8b0d7863e978232be6cca8b1aa80fc7[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:07:20 2022 -0400
+
+    Create valid-anagram.py
+
+[33mcommit 614c3f749cd772c45a33e99dc0c27e4bc32d2678[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:06:17 2022 -0400
+
+    Create first-unique-character-in-string.py
+
+[33mcommit fd5b4206b12f3848d4ff322bfa76f3642091980c[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 12:05:51 2022 -0400
+
+    Delete first-unique-character-in-a-string directory
+
+[33mcommit f801d645f3c6bcd9ea3d225e4a58b373ef6d16b2[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 11:36:29 2022 -0400
+
+    Create first-unique-character-in-string.py
+
+[33mcommit e7182b18c8d95e55cd1eee18369c6eea5a6c9999[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 11:34:16 2022 -0400
+
+    Create contains-duplicate.py
+
+[33mcommit 9124d9d7d18c09fe938f1e7ee4ba821936aaa8cf[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 11:33:40 2022 -0400
+
+    Create contains-duplicate.cpp
+
+[33mcommit 2f621aebbf17819891f75bfb7eaf8363814d0722[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 11:09:01 2022 -0400
+
+    Create search-a-2d-matrix.cpp
+
+[33mcommit 461a97e7acd7c44c7c1842169bba6ef591f958ac[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:52:15 2022 -0400
+
+    Create search-a-2d-matrix.py
+
+[33mcommit d143b1c48bc8da1f312bc56f579a6bd67a547ffa[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:48:40 2022 -0400
+
+    Create sqrt(x).cpp
+
+[33mcommit 7ead6f940c206748ede3d977c438e47575a941d7[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:22:57 2022 -0400
+
+    Create sqrt(x).py
+
+[33mcommit e86976300042263fbb8b3d66ce436f7b4e404489[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:21:48 2022 -0400
+
+    Create guess-number-higher-or-lower.cpp
+
+[33mcommit 6d0705713564bf728151dda6923ca2b38ff972f8[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:16:35 2022 -0400
+
+    Create guess-number-higher-or-lower.py
+
+[33mcommit 255d73b4087c6102d38a12a600baedaa105b10a2[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:14:58 2022 -0400
+
+    Create binary-search.py
+
+[33mcommit 1bded0c5f3dd204fc9ff21a87b4b053f1db539cb[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:12:51 2022 -0400
+
+    Create binary-search.cpp
+
+[33mcommit bb0b2390d01b348893d00976ebb37aae259b5854[m
+Author: jibrilfields <105961737+jibrilfields@users.noreply.github.com>
+Date:   Sat May 21 10:12:15 2022 -0400
+
+    Initial commit
