@@ -4,8 +4,7 @@ public:
     vector<int> subset;
     void gen(int n, vector<int> nums) {
         if (n==size(nums)) {
-            vector<int> append(subset);
-            res.push_back(append);
+            res.push_back(subset);
             return;
         }
         subset.push_back(nums[n]);
